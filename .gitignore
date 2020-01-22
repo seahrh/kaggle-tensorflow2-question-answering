@@ -1,5 +1,7 @@
 .idea/
-input/
+*.h5
+*.tfrecord*
+*.ckpt.*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
