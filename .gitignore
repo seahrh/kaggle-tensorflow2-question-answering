@@ -2,6 +2,10 @@
 *.h5
 *.tfrecord*
 *.ckpt.*
+*.zip
+input/nq-competition/checkpoints/
+*.jsonl
+*.model
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
